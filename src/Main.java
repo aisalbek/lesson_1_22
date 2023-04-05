@@ -10,7 +10,15 @@ public class Main {
         System.out.println(proverka(30,35));
         System.out.println(proverka(1,40));
         System.out.println(proverka(20,5));
-        System.out.println(proverka(generRandom1(),generRandom2()));
+        System.out.println("----------------------random-----------------------");
+        System.out.println(proverka(generRandom1(),generRandom2())+"| возраст :"+generRandom1()+"темпратура :"+generRandom2());
+        System.out.println(proverka(generRandom1(),generRandom2())+"| возраст :"+generRandom1()+"темпратура :"+generRandom2());
+        System.out.println(proverka(generRandom1(),generRandom2())+"| возраст :"+generRandom1()+"темпратура :"+generRandom2());
+        System.out.println(proverka(generRandom1(),generRandom2())+"| возраст :"+generRandom1()+"темпратура :"+generRandom2());
+        System.out.println(proverka(generRandom1(),generRandom2())+"| возраст :"+generRandom1()+"темпратура :"+generRandom2());
+
+
+
 
     }
 
